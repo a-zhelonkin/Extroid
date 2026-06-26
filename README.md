@@ -1,4 +1,4 @@
-![Extroid app logo](https://extroid.alittle.pro/icons/pwa-192x192.png)
+![Extroid app logo](./extroid_social_preview_1280x640.png)
 
 # Extroid – Phone Webcam for Browser Calls
 
