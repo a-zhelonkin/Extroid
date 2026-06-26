@@ -1,3 +1,5 @@
+![Extroid app logo](https://extroid.alittle.pro/icons/pwa-192x192.png)
+
 # Extroid – Phone Webcam for Browser Calls
 
 Extroid is a browser extension that lets Chrome and Chromium-based browsers use a connected device camera in browser-based video calls. It is designed for browser calls such as Google Meet and Zoom Web. It does not create a system-wide webcam for native desktop apps.
