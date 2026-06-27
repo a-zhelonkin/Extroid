@@ -10,6 +10,7 @@ Extroid is a browser extension that lets Chrome and Chromium-based browsers use 
 - [Chrome Web Store listing](https://chromewebstore.google.com/detail/kefmmlpligadeljhhpbhlgfoaomnaplb)
 - [Extroid compatibility guide](https://extroid.alittle.pro/compatibility)
 - [Camera Check](https://extroid.alittle.pro/camera-check)
+- [Use your phone as a webcam in browser video calls](https://extroid.alittle.pro/phone-as-webcam-browser)
 - [Use your phone camera in Google Meet](https://extroid.alittle.pro/phone-camera-google-meet)
 - [Privacy policy](https://extroid.alittle.pro/privacy)
 
